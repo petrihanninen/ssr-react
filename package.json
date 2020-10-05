@@ -1,0 +1,20 @@
+{
+  "name": "ssr-react",
+  "version": "1.0.0",
+  "description": "Based on [this tutorial](https://www.youtube.com/watch?v=82tZAPMHfT4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrihanninen/ssr-react.git"
+  },
+  "keywords": [],
+  "author": "Petri Hänninen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrihanninen/ssr-react/issues"
+  },
+  "homepage": "https://github.com/petrihanninen/ssr-react#readme"
+}
